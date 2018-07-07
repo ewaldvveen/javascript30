@@ -43,4 +43,10 @@ body {
     background:black;
     position: absolute;
     top:50%;
+    /* Default is 50%, but the hand will rotate around his
+    own axis. With 100% this changes to the right. */
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition: all 0.05s;
+    transition-timing-function: cubic-bezier(0.4, 0, 1, 1);
 }
