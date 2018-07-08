@@ -13,3 +13,10 @@ Lessons learned:
 
 Lessons learned:
 - learned how to manipulate CSS styling with JavaScript.
+
+## 8 Jul 2018
+### 03 - CSS Variables
+
+Lessons learned:
+- learned more about using CSS variables and then updating them with JavaScript.
+- key takeaway: every part of the page where a particular CSS variable is used gets updated when changing the styling (with JavaScript in this case) on a specific place on the page.
