@@ -7,3 +7,9 @@ This repo contains all the lessons of the JavaScript30 course by Wes Bos. In thi
 Lessons learned:
 - learned how to use the keydown event in JS in combination with data-types in CSS.
 - learned about the 'transitionend' event where you can track if a certain CSS transition ends and then manipulate the styling by (in this case) removing a class.
+
+## 7 Jul 2018
+### 02 - JS + CSS Clock
+
+Lessons learned:
+- learned how to manipulate CSS styling with JavaScript.
