@@ -31,4 +31,10 @@ Lessons learned:
 
 Lessons learned:
 - some cool dom manipulation with flexbox and javascript.
-- nesting flex-items
+- nesting flex-items.
+
+### 06 - Type Ahead
+
+Lessons learned:
+- how to use the fetch() method to get data from a server.
+- how to create your own regular expression.
