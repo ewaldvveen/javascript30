@@ -26,3 +26,9 @@ Lessons learned:
 
 Lessons learned:
 - awesome lesson in which I became more comfortable with some array methods like filter, map, sort and reduce.
+
+### 05 - Flex Panel Gallery
+
+Lessons learned:
+- some cool dom manipulation with flexbox and javascript.
+- nesting flex-items
