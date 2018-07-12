@@ -20,3 +20,9 @@ Lessons learned:
 Lessons learned:
 - learned more about using CSS variables and then updating them with JavaScript.
 - key takeaway: every part of the page where a particular CSS variable is used gets updated when changing the styling (with JavaScript in this case) on a specific place on the page.
+
+## 12 Jul 2018
+### 04 - Array Cardio Day 1
+
+Lessons learned:
+- awesome lesson in which I became more comfortable with some array methods like filter, map, sort and reduce.
