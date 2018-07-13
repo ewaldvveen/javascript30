@@ -43,3 +43,11 @@ Lessons learned:
 
 Lessons learned:
 - more fun with array methods like some, every, find en findIndex.
+
+## 13 Jul 2018
+### 08 - AFun with HTML5 Canvas
+
+Lessons learned:
+- awesome lesson about drawing on a canvas
+- creating multiple mouse events
+- creating flags (true/false checks) and use them to check for a specific situation
