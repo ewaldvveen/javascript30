@@ -38,3 +38,8 @@ Lessons learned:
 Lessons learned:
 - how to use the fetch() method to get data from a server.
 - how to create your own regular expression.
+
+### 07 - Array Cardio Day 1
+
+Lessons learned:
+- more fun with array methods like some, every, find en findIndex.
