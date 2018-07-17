@@ -57,3 +57,10 @@ Lessons learned:
 
 Lessons learned:
 - some nice ways to use to console in the browser (grouping, comparing etc.)
+
+## 17 Jul 2018
+### 10 - Hold Shift and Check Checkboxes
+
+Lessons learned:
+- some cool tricks on looping over a list of checkboxes and being able to select multiple boxes at once while holding the shift-key
+- using flags to mark the first checked box and the last one and set all the boxes in between to checked
