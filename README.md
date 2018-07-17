@@ -64,3 +64,8 @@ Lessons learned:
 Lessons learned:
 - some cool tricks on looping over a list of checkboxes and being able to select multiple boxes at once while holding the shift-key
 - using flags to mark the first checked box and the last one and set all the boxes in between to checked
+
+### 11 - Custom Video Player
+
+Lessons learned:
+- how to use the default video properties to create your own player
