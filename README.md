@@ -76,3 +76,10 @@ Lessons learned:
 Lessons learned:
 - how to check on an event and push the results into an array
 - using the splice() method backwards to save only the last items in an array
+
+## 26 Jul 2018
+### 13 - Slide in on Scroll
+
+Lessons learned:
+- how to determine where you are on the page so you can react to that
+- using a debounce function to prevent events happing too often (causing performance issues)
