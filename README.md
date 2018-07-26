@@ -69,3 +69,10 @@ Lessons learned:
 
 Lessons learned:
 - how to use the default video properties to create your own player
+
+## 23 Jul 2018
+### 12 - Key Sequence Detection
+
+Lessons learned:
+- how to check on an event and push the results into an array
+- using the splice() method backwards to save only the last items in an array
