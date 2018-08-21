@@ -89,6 +89,7 @@ Lessons learned:
 Lessons learned:
 - a nice lesson to remember to differences with reference types, especially arrays and objects
 
+## 21 Aug 2018
 ### 15 - LocalStorage
 
 Lessons learned:
