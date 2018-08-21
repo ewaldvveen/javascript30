@@ -88,3 +88,10 @@ Lessons learned:
 
 Lessons learned:
 - a nice lesson to remember to differences with reference types, especially arrays and objects
+
+### 15 - LocalStorage
+
+Lessons learned:
+- learned about how to use local storage in the browser
+- learned more about event delegation (search the 'responsive parent' ;-))
+- nice trick to toggle on and off
