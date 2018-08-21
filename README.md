@@ -83,3 +83,8 @@ Lessons learned:
 Lessons learned:
 - how to determine where you are on the page so you can react to that
 - using a debounce function to prevent events happing too often (causing performance issues)
+
+### 14 - JavaScript References VS Copying
+
+Lessons learned:
+- a nice lesson to remember to differences with reference types, especially arrays and objects
