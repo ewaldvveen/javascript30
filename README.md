@@ -96,3 +96,10 @@ Lessons learned:
 - learned about how to use local storage in the browser
 - learned more about event delegation (search the 'responsive parent' ;-))
 - nice trick to toggle on and off
+
+## 22 Aug 2018
+### 16 - Mouse Move Shadow
+
+Lessons learned:
+- how to deal with offsets to determine where the mouse is
+- tricks how to calculate offsets with nested elements, when using an eventlistener
